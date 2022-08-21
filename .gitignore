@@ -1,0 +1,14 @@
+logging
+unneeded
+identifier.sqlite
+database.db
+__pycache__
+.idea
+logging
+database
+misc.py
+.git.bak
+unrelated_testing.py
+sqlite3.def
+sqlite3.dll
+INFO.md
